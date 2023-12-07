@@ -1,0 +1,17 @@
+C:\Учеба\Homework_9\bin\Debug\net7.0\Homework_9.exe
+C:\Учеба\Homework_9\bin\Debug\net7.0\Homework_9.deps.json
+C:\Учеба\Homework_9\bin\Debug\net7.0\Homework_9.runtimeconfig.json
+C:\Учеба\Homework_9\bin\Debug\net7.0\Homework_9.dll
+C:\Учеба\Homework_9\bin\Debug\net7.0\Homework_9.pdb
+C:\Учеба\Homework_9\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Учеба\Homework_9\obj\Debug\net7.0\Homework_9.csproj.AssemblyReference.cache
+C:\Учеба\Homework_9\obj\Debug\net7.0\Homework_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Homework_9\obj\Debug\net7.0\Homework_9.AssemblyInfoInputs.cache
+C:\Учеба\Homework_9\obj\Debug\net7.0\Homework_9.AssemblyInfo.cs
+C:\Учеба\Homework_9\obj\Debug\net7.0\Homework_9.csproj.CoreCompileInputs.cache
+C:\Учеба\Homework_9\obj\Debug\net7.0\Homework_9.csproj.CopyComplete
+C:\Учеба\Homework_9\obj\Debug\net7.0\Homework_9.dll
+C:\Учеба\Homework_9\obj\Debug\net7.0\refint\Homework_9.dll
+C:\Учеба\Homework_9\obj\Debug\net7.0\Homework_9.pdb
+C:\Учеба\Homework_9\obj\Debug\net7.0\Homework_9.genruntimeconfig.cache
+C:\Учеба\Homework_9\obj\Debug\net7.0\ref\Homework_9.dll
